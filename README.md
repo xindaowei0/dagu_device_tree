@@ -1,4 +1,4 @@
-Copyright (C) 2022 ArrowOS
+Copyright (C) 2024 Recovery TWRP
 
 Device configuration for Xiaomi Pad 5 Pro 12.4 (dagu)
 =========================================
